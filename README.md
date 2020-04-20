@@ -5,6 +5,6 @@
 ### Класс CustomMinPQueue
 Для реализации решения данной задачи я использовал немного измененную версию двоичной очереди MinPQueue.
 Добавлены два метода:
- * публичный sumLeastElements()
- * приватный sumElements()
+ * публичный sumLeastElements
+ * приватный sumElements
 
